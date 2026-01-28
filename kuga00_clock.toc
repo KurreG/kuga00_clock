@@ -1,0 +1,9 @@
+## Interface: 120001, 120000
+## Title: |cFF30D1FFkuga00 clock (Midnight)|r
+## Notes: |cFF30D1FFDisplays clock. by kuga00 |r
+## Author: kuga00
+## Version: 0.1
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+kuga00_clock.lua

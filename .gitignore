@@ -1,0 +1,9 @@
+*.cmd
+*.ps1
+*.log
+*.tmp
+*.bak
+*.swp
+*.out
+*.old
+.vscode/
